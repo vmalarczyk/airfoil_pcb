@@ -35,7 +35,7 @@
       (text "HSCDRRN400MD2A3" (at 0 -10.16 0)
         (effects (font (size 1.27 1.27)))
       )
-      (pin power_out line (at -8.89 6.35 0) (length 2.54)
+      (pin power_in line (at -8.89 6.35 0) (length 2.54)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
