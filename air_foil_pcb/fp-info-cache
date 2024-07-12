@@ -1,4 +1,4 @@
-21569394668402533
+21576277360405501
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90068,6 +90068,34 @@ varistor
 0
 2
 2
+air_foil_pcb
+end_plate_connector
+
+
+0
+0
+0
+air_foil_pcb
+hscdrrn400md2a3
+
+
+0
+8
+8
+air_foil_pcb
+static_pressure_manifold
+
+
+0
+0
+0
+air_foil_pcb
+tube_connector
+
+
+0
+0
+0
 my_lib
 EFV_FOOTPRINT
 
